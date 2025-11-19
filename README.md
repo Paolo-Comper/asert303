@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @asert303
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning C and C++
-- ☑️ I know best python
+- 🌱 I’m currently learning C++
